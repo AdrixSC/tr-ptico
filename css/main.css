@@ -1,0 +1,35 @@
+body>p {
+    background-color: yellow;
+    padding: 15px;
+    margin: 0px;
+    text-align: center;
+}
+
+body>section>div {
+    float: left;
+    width: 32%;
+    border: black solid 1px;
+    padding: 5px;
+    text-align: center;
+    margin: 0px;
+    height: 500px;
+}
+
+img {
+    width: 70%;
+    margin-top: 25px;
+}
+
+body {
+    text-align: center;
+}
+
+section {
+    overflow: hidden;
+    margin-left: 9px;
+}
+
+.bold {
+    font-size: 20px;
+    font-weight: bold;
+}
